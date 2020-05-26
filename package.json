@@ -1,0 +1,35 @@
+{
+  "name": "node-websocket-crasher",
+  "version": "1.0.0",
+  "description": "Crashes Any WebSocket That Uses SocketIO(may work with others)",
+  "main": "simple_shutdown.js",
+  "dependencies": {
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node simple_shutdown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Develop-Projects/Node-WebSocket-Crasher.git"
+  },
+  "keywords": [
+    "Node",
+    "WebSocket",
+    "Crasher",
+    "Glitch",
+    "Bug",
+    "Node",
+    "Websocket",
+    "Crasher",
+    "Crash",
+    "WebSocket"
+  ],
+  "author": "Mark-Develop-Projects",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-Develop-Projects/Node-WebSocket-Crasher/issues"
+  },
+  "homepage": "https://github.com/Mark-Develop-Projects/Node-WebSocket-Crasher#readme"
+}
